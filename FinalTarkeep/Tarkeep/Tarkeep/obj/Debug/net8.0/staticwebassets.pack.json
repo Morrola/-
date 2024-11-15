@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tarkeep.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tarkeep.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\css\\Dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\css\\Login.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\Laundry.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Laundry.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\Staff\\Murad.JPG.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Staff\\Murad.JPG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\Staff\\Sham.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Staff\\Sham.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\Staff\\Sidra.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Staff\\Sidra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\booking.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\booking.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\clothis.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clothis.png"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\gallery\\pic8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\icon.JPEG",
+      "PackagePath": "staticwebassets\\assets\\img\\icon.JPEG"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\slider\\Deep.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\Deep.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\slider\\Ironing.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\Ironing.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\slider\\washing.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\washing.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\js\\Dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\js\\Login.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\js\\Regester.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Regester.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\forms\\book-a-table.php",
+      "PackagePath": "staticwebassets\\forms\\book-a-table.php"
+    },
+    {
+      "Id": "C:\\Users\\morro\\source\\repos\\FinalTarkeep\\Tarkeep\\Tarkeep\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tarkeep.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tarkeep.props",
+      "PackagePath": "build\\Tarkeep.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tarkeep.props",
+      "PackagePath": "buildMultiTargeting\\Tarkeep.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tarkeep.props",
+      "PackagePath": "buildTransitive\\Tarkeep.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
